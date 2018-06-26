@@ -1,0 +1,1 @@
+# heroku-sphinx-from-github
